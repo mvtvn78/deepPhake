@@ -36,7 +36,7 @@ const App: React.FC<{}> = ({ }) => {
           </div>
           <div>
             <Magnet padding={50} disabled={false} magnetStrength={1}>
-            <a href="https://github.com/mvtvn78" target="_blank" className='fs24x'>
+            <a href="https://github.com/mvtvn78/deepPhake" target="_blank" className='fs24x'>
                 <div style={{
                   color:'white',
                   display : 'flex'
