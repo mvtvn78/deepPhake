@@ -14,6 +14,7 @@ def getFaceIMG(filePath):
             ext = filePath.split(".")[-1]
             detectFiles = f"face_{i}{gn.generateUniqueTimestamp()}.{ext}"
             detect_filePath = f"store\\{detectFiles}"
+            detect_face = cv2.resize(detect_face, (224, 224))
             cv2.imwrite(detect_filePath, detect_face)
             detectList.append(detectFiles)
             i += 1

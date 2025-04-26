@@ -8,7 +8,7 @@ from model.meso4 import Meso4
 from model.resnet50 import resnet50
 
 PATHFILEMODELMESO = "model\\best_meso4.pth"
-PATHFILEMODELRESNET = "model\\best_resnet50.pth"
+PATHFILEMODELRESNET = "model\\best_resnet50_T5.pth"
 predict_bp = Blueprint("upload", __name__)
 
 # model = Meso4()
