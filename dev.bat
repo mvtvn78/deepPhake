@@ -1,1 +1,2 @@
-python backend/main.py
+cd backend
+python main.py
