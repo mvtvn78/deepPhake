@@ -507,27 +507,27 @@ class App {
   ) {
     const defaultItems = [
       {
-        image: `https://uc4a1aa8d68cc33f7aad0a7d20b2.dl.dropboxusercontent.com/cd/0/inline/CpxO-Qzi1sV8fifj8Kxc1Ann9TlfPPwcfoHV9zYWIVjuvyH9LSN5vZz6hCD1hpjPgQPWNHWzFELy97Ramct8RruxkOStMKGFow4XIT2jkRTPIfluc8_pYTRIC3XXRTUQiyPt46nLsbdjVdVrba1Wg2gm/file#`,
+        image: `re1.png`,
         text: "Real",
       },
       {
-        image: `https://uc29094f762ee69a7a7af6c8cd49.dl.dropboxusercontent.com/cd/0/inline/CpzU4vpe9a-iwuIxkrlVb8RTPqF0mJHk9UhqjULfyhIGRDZ_x_4ToYHrogXhZFsH9JEo7Hp2bjoGat_pg_w73tq0EaTKdTkF6zHWHnNnhbvNm4oZOeXM8LqWYQ7SWvHXDUYaCY-rTQraTPVAfRp8Jnvk/file#`,
+        image: `fa1.png`,
         text: "Fake",
       },
       {
-        image: `https://uc16fc546a9e2b213d43a98115bc.dl.dropboxusercontent.com/cd/0/inline/CpzWayE9p56ICaYhfAPWCt8ycN_drSKoZHHYygnbW3XvfBbDhStUgvlYRpvTUBGVjL-ebpZJxlu779VSO_bMVOroFuvfkojKJ0ykCEMAuSamTiZh1sf8yoPREoFCbDs5hXKZG9wdv4uD2f39c3A3li7l/file#`,
+        image: `fa2.png`,
         text: "Fake",
       },
       {
-        image: `https://ucfa2b05ae1da0e41e1ad73bc93e.dl.dropboxusercontent.com/cd/0/inline/CpzdrRvhaq9s8KkqoEUlKpKmKnrK5P7jWb_x34AAIXmNbOxkdMruB1MmMIN8aXq1OrmM8kc4LMO6EIYIgeHRdKTMR4fWzFuyqFVA26123SloeG8SGaR_fgZfvF7Ty-CXixgfG3sAXgBDFl2oFdmdztBH/file#`,
+        image: `re2.png`,
         text: "Real",
       },
       {
-        image: `https://uccad43200785bbefcccdb0ca2dc.dl.dropboxusercontent.com/cd/0/inline/CpxLqYCL-aSzWqJ02qiqemJy3BZrGGWpftI57STSNh0ctF65y1sWVa8oHVgFIlPEM5cbyIlfg7SIYCHUXWUgZV51v957CA8y2GHBnOl1n1UnHgI8oxkev4HvU_pbR56GrQ4Qm6nuDBgT6jsGF-wMfmWK/file#`,
+        image: `re33.png`,
         text: "Real",
       },
       {
-        image: `https://uca4c42358c6b3ce001b7ea3b302.dl.dropboxusercontent.com/cd/0/inline/Cpz_E69S50Fa0Sa7In3fanB7e2OmQH-UNl88VdP3I5Hx0bP8-6O6A4e9iGMRqSts6chwZERI--3DeLQcBa5N_lmtJhuoPpDMjdJVKFCjMNBmvG4zREQ-UzWxNPLDoB_7z1fkWOiIAStcu-v_hoi7LvP6/file#`,
+        image: `fa3.png`,
         text: "Fake",
       },
     ];
